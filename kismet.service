@@ -1,0 +1,11 @@
+[Unit]
+Description=Kismet
+After=network.target
+
+[Service]
+ExecStart=/usr/local/bin/kismet
+Restart=always
+User=root
+
+[Install]
+WantedBy=multi-user.target
