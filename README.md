@@ -9,7 +9,7 @@ A Raspberry Pi 4B wardriving rig that boots straight into Kismet. Plug it in, dr
 | Component | Details |
 |-----------|---------|
 | Raspberry Pi 4B | 4GB RAM running Raspberry Pi OS with GUI |
-| Touchscreen | Attached display for live Kismet output — fully self-contained |
+| [3.5" HDMI Touchscreen](https://www.ebay.com/itm/334953781965) | Attached display for live Kismet output — requires [LCD driver](https://www.lcdwiki.com/3.5inch_HDMI_Display-B) |
 | Alfa AWUS036ACHM | Dual-band wireless adapter in monitor mode, 2.4GHz and 5GHz |
 | GlobalSat BU-353S4 | USB GPS receiver — geo-tags every captured network automatically |
 
